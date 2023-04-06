@@ -1,0 +1,22 @@
+[2023-04-06 16:37:25] local.INFO: 1000 users successfully imported  
+[2023-04-06 16:37:25] local.INFO: 0 users not imported   
+[2023-04-06 16:39:07] local.ERROR: Class "App\Console\Commands\Log" not found {"exception":"[object] (Error(code: 0): Class \"App\\Console\\Commands\\Log\" not found at /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/app/Console/Commands/ProcessProductsCommand.php:69)
+[stacktrace]
+#0 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\\Console\\Commands\\ProcessProductsCommand->handle()
+#1 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#2 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#3 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#4 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#5 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/laravel/framework/src/Illuminate/Console/Command.php(182): Illuminate\\Container\\Container->call(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/symfony/console/Command/Command.php(291): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#7 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/laravel/framework/src/Illuminate/Console/Command.php(151): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#8 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/symfony/console/Application.php(1014): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/symfony/console/Application.php(301): Symfony\\Component\\Console\\Application->doRunCommand(Object(App\\Console\\Commands\\ProcessProductsCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/symfony/console/Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#11 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#12 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#13 /Applications/XAMPP/xamppfiles/htdocs/creative_ideaz/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#14 {main}
+"} 
+[2023-04-06 16:39:26] local.INFO: 100 users successfully imported  
+[2023-04-06 16:39:26] local.ERROR: 0 users not imported   

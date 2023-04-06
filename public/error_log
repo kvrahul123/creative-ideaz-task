@@ -1,0 +1,67 @@
+[13-Dec-2022 13:24:24 Asia/Kolkata] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/oceankiruthik/public_html/lavenjal/vendor/composer/platform_check.php on line 24
+[31-Jan-2023 04:25:11 UTC] PHP Fatal error:  Cannot use Response as Response because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/app/Http/Controllers/Api/V1/AuthController.php on line 12
+[10-Feb-2023 11:39:23 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Api\V1\CartController as CartController because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/routes/api.php on line 9
+[10-Feb-2023 12:38:15 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\V1\WishlistController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/app/Http/Controllers/Api/V1/CartController.php on line 16
+[10-Feb-2023 12:40:08 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\V1\WishlistController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/app/Http/Controllers/Api/V1/CartController.php on line 16
+[07-Mar-2023 13:18:29 UTC] PHP Fatal error:  Assignments can only happen to writable values in /home/nireshoceansoftw/public_html/lavenjal/app/Http/Controllers/Api/V1/OrderController.php on line 290
+[07-Mar-2023 13:18:59 UTC] PHP Fatal error:  Assignments can only happen to writable values in /home/nireshoceansoftw/public_html/lavenjal/app/Http/Controllers/Api/V1/OrderController.php on line 292
+[07-Mar-2023 13:20:01 UTC] PHP Fatal error:  Assignments can only happen to writable values in /home/nireshoceansoftw/public_html/lavenjal/app/Http/Controllers/Api/V1/OrderController.php on line 292
+[07-Mar-2023 13:21:17 UTC] PHP Fatal error:  Assignments can only happen to writable values in /home/nireshoceansoftw/public_html/lavenjal/app/Http/Controllers/Api/V1/OrderController.php on line 292
+[15-Mar-2023 15:14:49 Asia/Kolkata] PHP Warning:  require(/home/nireshoceansoftw/public_html/lavenjal/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nireshoceansoftw/public_html/lavenjal/public/index.php on line 34
+[15-Mar-2023 15:14:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nireshoceansoftw/public_html/lavenjal/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nireshoceansoftw/public_html/lavenjal/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nireshoceansoftw/public_html/lavenjal/public/index.php on line 34
+[15-Mar-2023 10:42:44 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 10:44:22 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 10:46:11 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 10:46:21 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 10:47:16 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 10:52:25 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 10:53:49 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 10:56:13 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 10:57:48 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:07:17 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:09:26 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:10:28 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:10:48 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:16:54 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:21:01 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:22:54 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:23:20 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:23:53 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:24:05 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 8
+[15-Mar-2023 11:24:28 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 6
+[15-Mar-2023 11:24:49 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 5
+[15-Mar-2023 11:26:20 UTC] PHP Fatal error:  Trait "App\Jobs\Dispatchable" not found in /home/nireshoceansoftw/public_html/lavenjal/app/Jobs/OtpEmailJob.php on line 5
+[16-Mar-2023 11:09:03 Asia/Kolkata] PHP Warning:  require_once(/home/nireshoceansoftw/public_html/lavenjal/vendor/composer/autoload_real.php): Failed to open stream: No such file or directory in /home/nireshoceansoftw/public_html/lavenjal/vendor/autoload.php on line 10
+[16-Mar-2023 11:09:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nireshoceansoftw/public_html/lavenjal/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nireshoceansoftw/public_html/lavenjal/vendor/autoload.php:10
+Stack trace:
+#0 /home/nireshoceansoftw/public_html/lavenjal/public/index.php(34): require()
+#1 {main}
+  thrown in /home/nireshoceansoftw/public_html/lavenjal/vendor/autoload.php on line 10
+[16-Mar-2023 11:10:37 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:38 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:39 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:40 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:40 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:40 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:41 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:46 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:49 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:56 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:57 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:58 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:58 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:58 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[16-Mar-2023 11:10:58 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/config/app.php on line 184
+[24-Mar-2023 06:47:33 UTC] PHP Fatal error:  Assignments can only happen to writable values in /home/nireshoceansoftw/public_html/lavenjal/app/Http/Controllers/Api/V1/OrderController.php on line 532
+[27-Mar-2023 05:13:14 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nireshoceansoftw/public_html/lavenjal/app/Http/Controllers/Backend/DeliveryController.php on line 56
+[04-Apr-2023 09:43:35 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\RetailerController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/storage/framework/views/ff60fb3194ca5f35e4b6e5906ab217e2e6043c98.php on line 15
+[04-Apr-2023 09:44:05 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\RetailerController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/storage/framework/views/ff60fb3194ca5f35e4b6e5906ab217e2e6043c98.php on line 15
+[04-Apr-2023 09:44:48 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\RetailerController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/storage/framework/views/ff60fb3194ca5f35e4b6e5906ab217e2e6043c98.php on line 15
+[04-Apr-2023 09:45:30 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\RetailerController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/storage/framework/views/ff60fb3194ca5f35e4b6e5906ab217e2e6043c98.php on line 15
+[04-Apr-2023 09:45:48 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\RetailerController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/storage/framework/views/ff60fb3194ca5f35e4b6e5906ab217e2e6043c98.php on line 15
+[04-Apr-2023 09:45:56 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\RetailerController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/storage/framework/views/ff60fb3194ca5f35e4b6e5906ab217e2e6043c98.php on line 15
+[04-Apr-2023 09:47:33 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\RetailerController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/storage/framework/views/ff60fb3194ca5f35e4b6e5906ab217e2e6043c98.php on line 15
+[04-Apr-2023 10:00:19 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\RetailerController, because the name is already in use in /home/nireshoceansoftw/public_html/lavenjal/storage/framework/views/ff60fb3194ca5f35e4b6e5906ab217e2e6043c98.php on line 15
